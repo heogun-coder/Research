@@ -49,7 +49,7 @@
 2. Embody Priority and Connection disabling for Specific User.
 3. Write Script for Integration of User Authentication and Network Management.
 
-#### 5. 보안 이상 탐지 및 자동화 (19-24주차)
+#### 5. Detect Security Anomaly 
 - For 1 month
 - Activity
 1. Set Rule for Detecting MITM, DDos with **Snort** or **Suricata** Installed.
